@@ -8,9 +8,8 @@
 </p>
 
 <h3 align="center">hello i'm San 👋</h1>
-<h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
+<h3 align="center>Full Stack Developer  😜</h3>
 
-<h5 align="right"><b>i'm working on flutter & laravel now🌱</b></h3>
 <h5 align="right"><b>and i like tea ☕</b></h3>
 <h5 align="right"><b>and i like to code everyday💻</b></h3>
 <h5 align="right"><b>you can contact me on my <a href="https://discord.gg/fPa7Ewb3>>Discord Server</a> Or <strong> San 🎶#3543</strong></b></h3>
