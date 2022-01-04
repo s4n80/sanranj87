@@ -16,20 +16,14 @@
 
 
 
-<h3 align="right"><b>i use this languages in front-end</b></h3>
+#### Languages and Tools I work with:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=563D7C)
-
-<h3 align="right"><b>Languages i use:</b></h3>
-
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
-![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=ffffff&labelColor=9C75D5)
-![sqlserver](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
+<a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+<a><img src="https://img.shields.io/badge/-JavaScript-grey?logo=JavaScript&logoColor=#61dbfb"></a>
+<a><img src="https://img.shields.io/badge/-Json-35495e?logo=Json&logoColor=#42b883"></a>
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-mysql-2088FF?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
