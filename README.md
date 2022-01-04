@@ -3,11 +3,11 @@
 </p>
 
 <p align="center"> 
- visitors now<br><br>
+ visitors<br><br>
   <img src="https://profile-counter.glitch.me/sanranj87/count.svg" />
 </p>
 
-<h3 align="center">hello i'm San 👋</h1>
+<h3 align="center">hello i'm San 👋</h3>
 <h3 align="center>Full Stack Developer 😜</h3>
 
 <h1>i like tea ☕️ </h1>
