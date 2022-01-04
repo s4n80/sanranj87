@@ -35,11 +35,11 @@
 ![illustrator](https://img.shields.io/badge/-illustrator-000000?style=flat&logo=illustrator&logoColor=ffffff&labelColor=F79500)
 
 
-<h3 align="right"><b>and i know this languages in back-end</b></h3>
+<h3 align="right"><b>Languages i use:</b></h3>
 
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![Livewire](https://img.shields.io/badge/-Livewire-000000?style=flat&logo=Livewire&logoColor=ffffff&labelColor=FF2D20)
