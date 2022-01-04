@@ -10,13 +10,13 @@
 <h3 align="center">hello i'm San 👋</h1>
 <h3 align="center>Full Stack Developer 😜</h3>
 
-#### i like tea ☕️
+<h1>i like tea ☕️ </h1>
 
-#### i code everyday
+<h1>i code everyday 👨‍💻</h1>
 
 
 
-#### Languages and Tools I work with:
+<h2> Languages and Tools I work with: </h2>
 
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
